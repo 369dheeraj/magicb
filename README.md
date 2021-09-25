@@ -1,0 +1,2 @@
+# magicb
+test project
